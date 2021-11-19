@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="B" Version="2.0.0" ExcludeAssets="lib" />
+    <PackageReference Include="B" Version="2.0.0" ExcludeAssets="compile" />
     <PackageReference Include="C" Version="1.0.0" />
   </ItemGroup>
 </Project>
