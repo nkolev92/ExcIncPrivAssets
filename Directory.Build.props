@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <PackageOutputPath>PackageStore</PackageOutputPath>
+        <RestorePackagesPath>packages</RestorePackagesPath>
+    </PropertyGroup>
+</Project>
