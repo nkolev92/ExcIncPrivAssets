@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="B" Version="2.0.0" ExcludeAssets="lib" />
+    <PackageReference Include="A" Version="1.0.0" />
+  </ItemGroup>
 </Project>
